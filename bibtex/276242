@@ -1,0 +1,29 @@
+
+
+
+
+
+@article{doi:10.1164/rccm.201604-0761OC,
+author = {Dr. Scott A Sands and Mr. Yoseph Mebrate and Dr. Bradley A Edwards and Dr. Shamim Nemati and Dr. Charlotte H Manisty and Dr. Akshay S. Desai and Dr. Andrew Wellman and Dr. Keith Willson and Prof. Darrel P Francis and Dr. James P Butler and Dr. Atul Malhotra},
+title = {Resonance as the Mechanism of Daytime Periodic Breathing in Patients with Heart Failure},
+journal = {American Journal of Respiratory and Critical Care Medicine},
+volume = {0},
+number = {ja},
+pages = {null},
+year = {0},
+doi = {10.1164/rccm.201604-0761OC},
+    note ={PMID: 27559818},
+
+URL = { 
+        http://dx.doi.org/10.1164/rccm.201604-0761OC
+    
+},
+eprint = { 
+        http://dx.doi.org/10.1164/rccm.201604-0761OC
+    
+}
+,
+    abstract = { Rationale: In patients with chronic heart failure, daytime oscillatory breathing at rest is associated with high mortality risk. Experimental evidence, including exaggerated ventilatory responses to carbon dioxide (CO2) and prolonged circulation time, implicates the ventilatory control system and suggests feedback instability (loop gain>1) is responsible. However, daytime oscillatory patterns often appear remarkably irregular versus classical instability (Cheyne-Stokes respiration), suggesting our mechanistic understanding is limited. Objective: We propose that daytime ventilatory oscillations generally result from a chemoreflex resonance, whereby spontaneous biological variations in ventilatory drive repeatedly induce temporary and irregular ringing effects. Importantly, the ease with which spontaneous biological variations induce irregular oscillations (resonance “strength”) rises profoundly as loop gain rises towards 1. We test this hypothesis through a comparison of mathematical predictions against actual measurements in patients with heart failure and healthy controls. Methods: In 25 patients with chronic heart failure and 25 controls, we examined spontaneous oscillations in ventilation and separately quantified loop gain using dynamic inspired CO2 stimulation. Measurements and Main Results: Resonance was detected in 24/25 heart failure patients and 18/25 controls. With increased loop gain—consequent to increased chemosensitivity and delay—the strength of spontaneous oscillations increased precipitously as predicted (r=0.88), yielding larger (r=0.78) and more regular (interpeak interval S.D., r=−0.68) oscillations (p<0.001 for all, both groups combined). Conclusions: Our study elucidates the mechanism underlying daytime ventilatory oscillations in heart failure, and provides a means to measure and interpret these oscillations to reveal the underlying chemoreflex hypersensitivity and reduced stability that foretells mortality in this population. }
+}
+
+

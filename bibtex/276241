@@ -1,11 +1,12 @@
-@article{276241,
-  title={Machine learning and decision support in critical care},
-  author={Johnson, Alistair EW and Ghassemi, Mohammad M and Nemati, Shamim and Niehaus, Katherine E and Clifton, David and Clifford, Gari D},
-  journal={Proceedings of the IEEE},
-  volume={104},
-  number={2},
-  pages={444--466},
-  year={2016},
-  publisher={IEEE}
-}
-
+@ARTICLE{7390351, 
+author={A. E. W. Johnson and M. M. Ghassemi and S. Nemati and K. E. Niehaus and D. A. Clifton and G. D. Clifford}, 
+journal={Proceedings of the IEEE}, 
+title={Machine Learning and Decision Support in Critical Care}, 
+year={2016}, 
+volume={104}, 
+number={2}, 
+pages={444-466}, 
+keywords={Big Data;health care;learning (artificial intelligence);Big Data analytics;caregiver teams;clinical data management systems;clinical monitoring;critical care;decision support;event prediction;machine learning;online patient tracking;personalized prediction;precision medicine;risk assessment;standard clinical databases;static acuity scoring;Complexity theory;Data privacy;Databases;Hospitals;Interoperability;Monitoring;Critical care;feature extraction;machine learning;signal processing}, 
+doi={10.1109/JPROC.2015.2501978}, 
+ISSN={0018-9219}, 
+month={Feb},}

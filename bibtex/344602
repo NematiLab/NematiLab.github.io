@@ -1,11 +1,9 @@
-
-
-@conference {344602,
-	title = {Discriminating Clinical Phases of Recovery From Major Depressive Disorder using the Dynamics of Facial Expression},
-	booktitle = {Engineering in Medicine and Biology Society (EMBC), 2016 Annual International Conference of the IEEE},
-	year = {2016},
-	pages = {},
-	publisher = {IEEE},
-	organization = {IEEE},
-	author = {Harati, Sahar, Andrea Crowell, Jun Kong, Helen Mayberg and Shamim Nemati}
-}
+@INPROCEEDINGS{7591178, 
+author={S. Harati and A. Crowell and H. Mayberg and J. Kong and S. Nemati}, 
+booktitle={2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)}, 
+title={Discriminating clinical phases of recovery from major depressive disorder using the dynamics of facial expression}, 
+year={2016}, 
+pages={2254-2257}, 
+keywords={bioelectric potentials;brain;entropy;face recognition;feature extraction;image registration;medical disorders;medical image processing;neurophysiology;patient treatment;video recording;DBS;DLVM;MDD;MSE;clinical recovery phases;clinical response;deep brain stimulation treatment;depression treatment;dynamic latent variable model;facial expression dynamics;facial expressivity;high-dimensional pixels;major depressive disorder;multiscale entropy;pixel intensity level;temporal variability;unsupervised features;video frame;video recording;Entropy;Face;Mathematical model;Observability;Satellite broadcasting;Switches;Video recording}, 
+doi={10.1109/EMBC.2016.7591178}, 
+month={Aug},}

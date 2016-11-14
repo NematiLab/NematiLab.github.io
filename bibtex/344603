@@ -1,11 +1,9 @@
-
-
-@conference {344603,
-	title = {Optimal Medication Dosing from Suboptimal Clinical Examples:A Deep Reinforcement Learning Approach},
-	booktitle = {Engineering in Medicine and Biology Society (EMBC), 2016 Annual International Conference of the IEEE},
-	year = {2016},
-	pages = {},
-	publisher = {IEEE},
-	organization = {IEEE},
-	author = {Nemati, Shamim, Mohammad M. Ghassemi, and Gari D. Clifford}
-}
+@INPROCEEDINGS{7591355, 
+author={S. Nemati and M. M. Ghassemi and G. D. Clifford}, 
+booktitle={2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)}, 
+title={Optimal medication dosing from suboptimal clinical examples: A deep reinforcement learning approach}, 
+year={2016}, 
+pages={2978-2981}, 
+keywords={decision making;drugs;electronic health records;learning (artificial intelligence);patient treatment;MIMIC II intensive care unit database;clinical guidelines;clinical phenotype;clinician-in-the-loop sequential decision making framework;deep reinforcement learning algorithm;electronic medical records;hospital stay length;individualized dosing policy;individualized patient dosing policies;optimal heparin dosing policy;optimal medication dosing;retrospective data;sample dosing trails;sensitive therapeutic windows;sequential modeling approach;suboptimal clinical examples;testing datasets;training datasets;Cost function;Drugs;Feature extraction;Hospitals;Learning (artificial intelligence);Time series analysis;Training}, 
+doi={10.1109/EMBC.2016.7591355}, 
+month={Aug},}
