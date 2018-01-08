@@ -1,0 +1,8 @@
+@inproceedings{shashikumar2017deep,
+  title={A deep learning approach to monitoring and detecting atrial fibrillation using wearable technology},
+  author={Shashikumar, Supreeth Prajwal and Shah, Amit J and Li, Qiao and Clifford, Gari D and Nemati, Shamim},
+  booktitle={Biomedical \& Health Informatics (BHI), 2017 IEEE EMBS International Conference on},
+  pages={141--144},
+  year={2017},
+  organization={IEEE}
+}

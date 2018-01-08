@@ -1,0 +1,10 @@
+@article{xu2017patient,
+  title={Patient flow prediction via discriminative learning of mutually-correcting processes},
+  author={Xu, Hongteng and Wu, Weichang and Nemati, Shamim and Zha, Hongyuan},
+  journal={IEEE transactions on Knowledge and Data Engineering},
+  volume={29},
+  number={1},
+  pages={157--171},
+  year={2017},
+  publisher={IEEE}
+}
