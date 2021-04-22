@@ -1,5 +1,5 @@
 name: The Nemati Lab
-description: Website for Nemati Lab at Emory University
+description: Website for Nemati Lab at UC San Diego
 url: NematiLab.info
 permalink: :categories/:title
 exclude: [vendor]
